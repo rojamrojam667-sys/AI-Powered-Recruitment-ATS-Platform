@@ -1,0 +1,6 @@
+{
+  "name": "AI Recruitment & ATS Platform",
+  "description": "An AI-powered Applicant Tracking System with resume parsing, automatic candidate screening, skill matching, pipeline visualization, meeting logs, and professional email draft generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
